@@ -1,0 +1,301 @@
+,surgery,Age,rectal_temperature,pulse,abdominal_distension,pain,abdomen,outcome
+0,no,adult,max,66.0,severe,intermittent severe pain,distended large intestine,died
+1,yes,adult,max,88.0,moderate,depressed,other,was euthanized
+2,no,adult,max,40.0,moderate,no pain,normal,lived
+3,yes,young,max,164.0,slight,intermittent severe pain,,died
+4,no,adult,min,104.0,,,,died
+5,no,adult,,,slight,depressed,firm feces in the large intestine,lived
+6,yes,adult,norm,48.0,moderate,intermittent mild pain,distended large intestine,lived
+7,yes,adult,,60.0,,depressed,distended small intestine,died
+8,no,adult,,80.0,severe,intermittent severe pain,distended large intestine,was euthanized
+9,no,young,max,90.0,severe,no pain,,lived
+10,yes,adult,max,66.0,moderate,no pain,distended large intestine,lived
+11,no,adult,max,72.0,slight,depressed,distended small intestine,lived
+12,yes,adult,min,42.0,moderate,intermittent mild pain,distended large intestine,lived
+13,no,young,max,92.0,none,depressed,normal,died
+14,yes,adult,max,76.0,moderate,no pain,distended small intestine,lived
+15,yes,adult,min,96.0,severe,intermittent mild pain,,died
+16,yes,young,,128.0,severe,intermittent mild pain,distended large intestine,died
+17,no,adult,min,48.0,,,,lived
+18,yes,adult,min,64.0,slight,no pain,distended large intestine,lived
+19,no,adult,max,110.0,,intermittent mild pain,,lived
+20,yes,adult,max,72.0,severe,intermittent severe pain,distended small intestine,lived
+21,no,adult,max,48.0,none,no pain,firm feces in the large intestine,lived
+22,yes,adult,max,42.0,slight,no pain,,lived
+23,yes,young,max,130.0,slight,,,lived
+24,yes,adult,max,60.0,,intermittent mild pain,,lived
+25,no,adult,norm,60.0,,,,lived
+26,yes,adult,max,72.0,moderate,intermittent mild pain,distended large intestine,lived
+27,yes,adult,norm,48.0,,depressed,firm feces in the large intestine,lived
+28,yes,adult,,,,,,died
+29,no,adult,norm,48.0,none,no pain,,lived
+30,no,adult,norm,96.0,severe,intermittent severe pain,distended large intestine,died
+31,no,adult,min,108.0,slight,depressed,firm feces in the large intestine,was euthanized
+32,yes,adult,min,60.0,moderate,intermittent mild pain,distended large intestine,lived
+33,yes,adult,max,64.0,moderate,,distended small intestine,lived
+34,yes,adult,,100.0,severe,intermittent severe pain,distended small intestine,lived
+35,no,adult,,104.0,severe,intermittent mild pain,other,was euthanized
+36,no,adult,max,112.0,,no pain,distended large intestine,was euthanized
+37,yes,adult,norm,72.0,severe,no pain,normal,lived
+38,no,adult,max,52.0,moderate,depressed,firm feces in the large intestine,lived
+39,yes,young,max,146.0,,,,died
+40,yes,adult,,88.0,severe,intermittent mild pain,distended large intestine,died
+41,no,young,max,150.0,,,,lived
+42,no,adult,max,60.0,moderate,no pain,other,lived
+43,yes,adult,,120.0,severe,intermittent severe pain,distended large intestine,was euthanized
+44,yes,adult,min,140.0,severe,,distended large intestine,was euthanized
+45,no,adult,,120.0,severe,intermittent severe pain,distended large intestine,died
+46,yes,adult,norm,60.0,severe,intermittent severe pain,distended large intestine,lived
+47,no,adult,min,48.0,none,no pain,,lived
+48,yes,adult,max,80.0,slight,intermittent mild pain,normal,died
+49,no,adult,min,84.0,severe,depressed,normal,died
+50,no,adult,max,46.0,none,depressed,other,lived
+51,yes,adult,min,84.0,moderate,depressed,distended large intestine,died
+52,no,adult,,,none,no pain,other,lived
+53,no,adult,max,40.0,,,,lived
+54,no,adult,max,114.0,slight,intermittent mild pain,distended large intestine,was euthanized
+55,yes,young,max,160.0,moderate,intermittent severe pain,,died
+56,yes,adult,,,,,,lived
+57,yes,adult,,64.0,severe,intermittent mild pain,,died
+58,yes,adult,,,severe,intermittent mild pain,distended small intestine,died
+59,no,adult,,96.0,severe,intermittent severe pain,distended large intestine,died
+60,no,adult,norm,48.0,slight,,distended large intestine,lived
+61,no,adult,max,60.0,none,depressed,normal,lived
+62,yes,adult,norm,88.0,moderate,,,died
+63,no,adult,max,130.0,slight,intermittent severe pain,,was euthanized
+64,yes,adult,max,64.0,moderate,depressed,distended large intestine,lived
+65,yes,adult,,60.0,moderate,depressed,distended small intestine,lived
+66,no,adult,norm,72.0,moderate,no pain,distended small intestine,lived
+67,no,adult,max,54.0,none,no pain,other,lived
+68,no,adult,,52.0,,,,lived
+69,no,adult,max,48.0,none,,other,lived
+70,no,adult,min,60.0,moderate,intermittent mild pain,distended small intestine,was euthanized
+71,yes,adult,norm,48.0,none,no pain,normal,lived
+72,yes,adult,norm,56.0,,,,died
+73,yes,adult,max,52.0,severe,no pain,,died
+74,yes,young,,,,,,died
+75,yes,young,max,100.0,slight,,,was euthanized
+76,yes,adult,min,38.0,moderate,depressed,,lived
+77,no,adult,max,52.0,none,no pain,normal,lived
+78,yes,adult,,,severe,intermittent mild pain,distended large intestine,died
+79,yes,adult,min,96.0,moderate,depressed,distended small intestine,lived
+80,yes,adult,min,98.0,severe,depressed,distended small intestine,died
+81,yes,adult,min,40.0,slight,depressed,distended large intestine,lived
+82,yes,young,max,100.0,moderate,no pain,,lived
+83,yes,adult,max,,severe,intermittent severe pain,,died
+84,yes,adult,norm,60.0,slight,intermittent mild pain,,lived
+85,no,adult,max,54.0,moderate,depressed,distended small intestine,lived
+86,yes,adult,,88.0,severe,intermittent mild pain,distended large intestine,died
+87,no,adult,,40.0,,,,was euthanized
+88,no,adult,max,64.0,moderate,depressed,firm feces in the large intestine,lived
+89,no,adult,max,42.0,none,no pain,,lived
+90,no,adult,max,52.0,slight,,normal,lived
+91,no,adult,max,114.0,slight,intermittent mild pain,distended large intestine,died
+92,no,adult,max,50.0,none,no pain,normal,lived
+93,no,adult,,,severe,intermittent mild pain,distended large intestine,died
+94,no,adult,min,48.0,,no pain,normal,lived
+95,yes,adult,min,48.0,moderate,intermittent mild pain,distended large intestine,lived
+96,no,adult,,84.0,,no pain,other,lived
+97,yes,adult,max,88.0,slight,intermittent mild pain,distended large intestine,was euthanized
+98,no,adult,norm,44.0,none,depressed,distended large intestine,lived
+99,no,adult,max,108.0,slight,intermittent mild pain,distended large intestine,lived
+100,yes,adult,max,40.0,none,,normal,lived
+101,yes,adult,,60.0,severe,,distended large intestine,was euthanized
+102,no,adult,max,40.0,slight,,,lived
+103,yes,young,max,140.0,moderate,depressed,normal,lived
+104,yes,adult,norm,52.0,severe,no pain,distended large intestine,died
+105,yes,adult,,70.0,slight,depressed,distended large intestine,lived
+106,yes,adult,max,52.0,,,,lived
+107,no,adult,min,50.0,none,depressed,,lived
+108,yes,adult,max,60.0,severe,intermittent severe pain,distended large intestine,was euthanized
+109,yes,young,max,84.0,moderate,intermittent mild pain,,died
+110,yes,adult,,70.0,slight,depressed,distended large intestine,died
+111,yes,adult,max,40.0,none,depressed,,lived
+112,yes,adult,,40.0,none,no pain,distended large intestine,lived
+113,yes,adult,min,60.0,,,,died
+114,yes,adult,max,44.0,severe,intermittent mild pain,distended large intestine,lived
+115,no,adult,,,moderate,depressed,,lived
+116,yes,adult,max,44.0,moderate,intermittent mild pain,distended large intestine,lived
+117,no,adult,max,,moderate,intermittent mild pain,distended large intestine,was euthanized
+118,yes,adult,min,78.0,severe,no pain,,lived
+119,no,adult,max,56.0,none,no pain,,lived
+120,yes,adult,max,54.0,slight,depressed,distended small intestine,lived
+121,yes,adult,max,80.0,severe,no pain,distended small intestine,was euthanized
+122,no,adult,max,40.0,moderate,no pain,,lived
+123,yes,adult,max,64.0,severe,intermittent mild pain,distended small intestine,died
+124,no,adult,min,48.0,none,intermittent mild pain,normal,was euthanized
+125,yes,adult,max,42.0,moderate,depressed,distended small intestine,lived
+126,yes,adult,max,,severe,depressed,,lived
+127,yes,adult,min,50.0,severe,no pain,,lived
+128,yes,adult,min,84.0,slight,intermittent mild pain,,was euthanized
+129,yes,adult,max,49.0,,no pain,,lived
+130,yes,adult,norm,30.0,,,,died
+131,no,adult,min,88.0,moderate,depressed,,died
+132,,adult,max,48.0,severe,no pain,distended large intestine,
+133,no,adult,norm,40.0,slight,no pain,firm feces in the large intestine,lived
+134,yes,adult,,100.0,severe,,,died
+135,yes,young,max,136.0,severe,intermittent mild pain,,died
+136,yes,adult,,,severe,intermittent mild pain,distended large intestine,died
+137,yes,adult,max,48.0,none,intermittent severe pain,distended large intestine,lived
+138,no,adult,max,56.0,none,no pain,normal,lived
+139,no,adult,max,60.0,moderate,,,lived
+140,yes,adult,max,44.0,slight,no pain,distended large intestine,lived
+141,no,adult,min,42.0,,,,died
+142,yes,adult,,120.0,severe,intermittent severe pain,distended large intestine,died
+143,yes,adult,norm,48.0,none,no pain,normal,lived
+144,yes,adult,min,84.0,slight,intermittent severe pain,distended large intestine,was euthanized
+145,no,adult,,80.0,slight,intermittent mild pain,,lived
+146,yes,adult,max,48.0,moderate,intermittent severe pain,distended large intestine,lived
+147,no,adult,max,44.0,moderate,intermittent mild pain,distended small intestine,died
+148,yes,adult,max,132.0,slight,depressed,distended small intestine,lived
+149,no,adult,max,48.0,none,,,lived
+150,no,adult,max,44.0,slight,depressed,other,lived
+151,yes,adult,max,,severe,depressed,distended small intestine,died
+152,yes,adult,,100.0,,intermittent severe pain,,lived
+153,no,adult,max,48.0,none,depressed,other,lived
+154,no,adult,max,48.0,moderate,intermittent severe pain,distended large intestine,lived
+155,no,adult,max,48.0,none,depressed,other,lived
+156,no,adult,max,52.0,moderate,depressed,firm feces in the large intestine,lived
+157,yes,adult,norm,60.0,,intermittent severe pain,distended large intestine,was euthanized
+158,no,adult,max,42.0,moderate,no pain,,lived
+159,no,adult,,,slight,depressed,firm feces in the large intestine,lived
+160,yes,adult,,,severe,,distended large intestine,lived
+161,yes,adult,max,42.0,,,,died
+162,no,adult,max,60.0,moderate,depressed,,lived
+163,yes,adult,max,66.0,severe,no pain,,was euthanized
+164,yes,adult,max,76.0,moderate,depressed,distended small intestine,lived
+165,yes,adult,max,120.0,,intermittent mild pain,,was euthanized
+166,yes,adult,max,40.0,moderate,no pain,normal,lived
+167,no,adult,,44.0,moderate,no pain,normal,lived
+168,yes,adult,max,104.0,slight,depressed,distended small intestine,lived
+169,yes,adult,,65.0,severe,intermittent severe pain,distended large intestine,was euthanized
+170,no,adult,min,44.0,,no pain,,lived
+171,no,adult,max,86.0,moderate,intermittent mild pain,,died
+172,yes,adult,max,129.0,slight,intermittent mild pain,,lived
+173,yes,adult,,104.0,slight,intermittent mild pain,distended small intestine,died
+174,no,adult,,,severe,intermittent severe pain,,died
+175,yes,adult,,,,,,lived
+176,yes,adult,max,60.0,moderate,no pain,other,lived
+177,yes,adult,,68.0,severe,,,died
+178,yes,adult,,60.0,severe,intermittent severe pain,,lived
+179,no,adult,max,100.0,severe,intermittent severe pain,distended large intestine,was euthanized
+180,yes,adult,max,84.0,severe,intermittent mild pain,distended small intestine,died
+181,no,adult,norm,48.0,moderate,depressed,,lived
+182,yes,adult,max,,severe,intermittent severe pain,,died
+183,no,adult,norm,56.0,slight,no pain,,lived
+184,no,adult,max,68.0,none,no pain,normal,lived
+185,yes,adult,max,120.0,,,,lived
+186,yes,adult,max,64.0,,no pain,,lived
+187,yes,adult,max,80.0,moderate,intermittent mild pain,distended large intestine,lived
+188,yes,adult,max,60.0,,no pain,,lived
+189,yes,adult,max,60.0,slight,no pain,distended small intestine,lived
+190,yes,adult,min,40.0,moderate,no pain,firm feces in the large intestine,lived
+191,no,young,,100.0,severe,no pain,,lived
+192,yes,adult,max,48.0,moderate,intermittent mild pain,,lived
+193,yes,adult,,60.0,severe,intermittent severe pain,,died
+194,no,adult,norm,88.0,slight,no pain,normal,lived
+195,no,adult,max,44.0,,depressed,,lived
+196,no,adult,max,60.0,slight,no pain,firm feces in the large intestine,was euthanized
+197,no,adult,max,96.0,slight,depressed,distended large intestine,died
+198,no,adult,max,60.0,none,no pain,,lived
+199,no,adult,max,60.0,slight,depressed,other,lived
+200,yes,adult,min,48.0,moderate,intermittent mild pain,firm feces in the large intestine,lived
+201,yes,adult,max,86.0,severe,intermittent mild pain,distended large intestine,died
+202,yes,adult,min,48.0,,,distended large intestine,was euthanized
+203,no,adult,min,36.0,slight,no pain,normal,lived
+204,yes,adult,max,,severe,depressed,,lived
+205,no,adult,max,100.0,severe,intermittent severe pain,distended large intestine,was euthanized
+206,yes,adult,max,96.0,severe,intermittent mild pain,distended large intestine,lived
+207,yes,adult,,,,,,died
+208,yes,adult,norm,88.0,,intermittent mild pain,distended large intestine,was euthanized
+209,no,adult,min,44.0,moderate,depressed,firm feces in the large intestine,lived
+210,yes,adult,norm,68.0,slight,depressed,distended large intestine,died
+211,yes,adult,max,86.0,slight,intermittent severe pain,distended large intestine,died
+212,yes,young,max,120.0,moderate,intermittent mild pain,,lived
+213,yes,adult,min,45.0,,depressed,distended small intestine,lived
+214,no,adult,max,56.0,none,no pain,,lived
+215,yes,adult,norm,40.0,none,no pain,other,lived
+216,no,adult,,,,,,lived
+217,yes,adult,max,76.0,,,,lived
+218,yes,adult,max,40.0,slight,,,was euthanized
+219,yes,adult,,52.0,moderate,intermittent mild pain,distended small intestine,lived
+220,yes,adult,max,88.0,severe,,,was euthanized
+221,yes,adult,max,92.0,slight,intermittent mild pain,,lived
+222,yes,adult,,112.0,slight,no pain,distended small intestine,lived
+223,yes,adult,norm,66.0,moderate,depressed,distended small intestine,lived
+224,yes,adult,max,50.0,moderate,no pain,distended large intestine,lived
+225,no,adult,max,54.0,none,no pain,other,lived
+226,yes,adult,max,120.0,slight,intermittent mild pain,distended small intestine,died
+227,yes,young,,,,,,lived
+228,yes,adult,min,90.0,severe,intermittent mild pain,distended large intestine,was euthanized
+229,yes,young,max,120.0,,,,lived
+230,yes,adult,max,104.0,severe,intermittent severe pain,,lived
+231,no,adult,max,92.0,severe,no pain,,died
+232,yes,adult,max,30.0,,,,lived
+233,yes,adult,max,72.0,moderate,intermittent mild pain,distended large intestine,lived
+234,no,adult,min,48.0,,no pain,normal,lived
+235,yes,adult,max,52.0,severe,no pain,,died
+236,no,adult,max,42.0,moderate,depressed,,lived
+237,no,adult,norm,54.0,moderate,no pain,other,lived
+238,no,adult,min,88.0,moderate,depressed,distended small intestine,was euthanized
+239,yes,adult,max,70.0,severe,,distended large intestine,was euthanized
+240,yes,adult,max,90.0,severe,intermittent severe pain,distended large intestine,died
+241,yes,adult,max,52.0,none,no pain,,lived
+242,yes,adult,,36.0,severe,intermittent mild pain,distended small intestine,died
+243,yes,adult,max,92.0,,intermittent mild pain,,lived
+244,yes,young,max,124.0,slight,intermittent severe pain,,lived
+245,no,adult,,96.0,severe,intermittent severe pain,distended large intestine,died
+246,yes,adult,min,68.0,severe,intermittent severe pain,distended large intestine,lived
+247,yes,adult,max,88.0,severe,intermittent mild pain,distended small intestine,died
+248,yes,adult,max,108.0,severe,intermittent mild pain,distended small intestine,lived
+249,no,adult,max,48.0,moderate,no pain,other,lived
+250,yes,adult,max,100.0,slight,no pain,distended small intestine,was euthanized
+251,no,adult,min,42.0,none,no pain,distended large intestine,died
+252,yes,young,max,124.0,slight,intermittent severe pain,distended small intestine,died
+253,no,adult,,112.0,severe,depressed,,lived
+254,yes,adult,,80.0,severe,intermittent severe pain,distended large intestine,lived
+255,yes,young,max,184.0,severe,intermittent mild pain,,died
+256,yes,adult,min,72.0,slight,no pain,,was euthanized
+257,yes,adult,max,96.0,,,,died
+258,no,adult,min,52.0,slight,depressed,distended large intestine,lived
+259,yes,adult,max,72.0,slight,no pain,,died
+260,no,adult,max,40.0,severe,depressed,,lived
+261,no,adult,max,48.0,none,depressed,other,lived
+262,no,young,max,88.0,,,,lived
+263,yes,adult,min,75.0,severe,depressed,distended small intestine,died
+264,yes,adult,max,44.0,moderate,intermittent mild pain,distended large intestine,lived
+265,no,adult,,56.0,moderate,no pain,,was euthanized
+266,no,adult,max,68.0,moderate,depressed,distended large intestine,lived
+267,no,adult,max,54.0,slight,depressed,distended small intestine,lived
+268,yes,adult,max,42.0,,,,lived
+269,yes,adult,max,64.0,,no pain,distended large intestine,lived
+270,yes,adult,min,60.0,moderate,depressed,distended small intestine,died
+271,yes,adult,norm,80.0,severe,no pain,normal,lived
+272,yes,adult,,100.0,severe,intermittent severe pain,distended small intestine,lived
+273,yes,adult,norm,120.0,severe,intermittent mild pain,,died
+274,yes,adult,,76.0,,intermittent severe pain,distended large intestine,was euthanized
+275,yes,young,max,150.0,severe,depressed,,died
+276,yes,adult,max,36.0,severe,depressed,,was euthanized
+277,no,adult,min,50.0,none,depressed,,lived
+278,no,adult,norm,40.0,none,no pain,normal,lived
+279,no,adult,max,56.0,slight,intermittent mild pain,,lived
+280,yes,adult,max,48.0,none,,,lived
+281,no,adult,max,78.0,slight,no pain,normal,died
+282,yes,adult,,70.0,slight,depressed,distended large intestine,died
+283,yes,adult,max,72.0,,,,lived
+284,no,adult,max,54.0,moderate,no pain,,lived
+285,yes,adult,max,66.0,moderate,no pain,distended large intestine,lived
+286,no,adult,norm,82.0,severe,intermittent mild pain,,was euthanized
+287,no,young,max,84.0,,,,lived
+288,yes,adult,,,,,,lived
+289,yes,adult,max,50.0,moderate,depressed,,lived
+290,no,adult,max,45.0,none,,normal,lived
+291,yes,adult,max,80.0,slight,intermittent mild pain,normal,died
+292,yes,adult,min,66.0,severe,intermittent mild pain,distended large intestine,died
+293,yes,adult,,78.0,,,distended small intestine,was euthanized
+294,no,adult,max,40.0,slight,no pain,other,lived
+295,yes,adult,,120.0,slight,,distended large intestine,was euthanized
+296,no,adult,min,72.0,severe,intermittent mild pain,distended small intestine,was euthanized
+297,yes,adult,min,72.0,severe,intermittent mild pain,distended large intestine,died
+298,yes,adult,min,100.0,moderate,intermittent mild pain,distended small intestine,lived
+299,yes,adult,min,40.0,,,normal,was euthanized
